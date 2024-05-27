@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi! I'm Talha
 
-<!--
-**Talha-loai/Talha-loai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated from El Shorouk Academy and I'm passionate about exploring the world of Machine Learning and Artificial Intelligence.  I'm currently diving deep into these fields and eager to learn and collaborate with others.
 
-Here are some ideas to get you started:
+What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Machine Learning
+Artificial Intelligence
+
+
+I'm always interested in connecting with other developers and learners. Feel free to reach out!
+
+Let's Build Something Together!
+
+I'm open to collaborating on projects related to Machine Learning and AI. If you have an idea, let's chat!
